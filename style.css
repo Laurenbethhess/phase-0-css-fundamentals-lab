@@ -3,3 +3,55 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+figure {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+}
+
+nav a {
+  padding-right: 10px;
+}
+
+nav a {
+  background-color: gray;
+}
+
+figcaption {
+  font-size: smaller;
+}
+
+section#featured-property p {
+  width: 800px;
+}
+
+section#featured-property p {
+  text-align: center;
+}
+
+section#featured-property p {
+  padding-left: 300px;
+}
+
+section#details div {
+  float: left;
+}
+
+section#details div {
+  background-color: red;
+}
+
+section#details div {
+  text-align: center;
+}
+
+section#details div {
+  width: 25%;
+}
